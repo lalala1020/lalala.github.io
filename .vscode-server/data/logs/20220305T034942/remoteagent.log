@@ -1,0 +1,37 @@
+[2022-03-05 03:49:42.125] [remoteagent] [info] Extension host agent started.
+[2022-03-05 03:49:42.167] [remoteagent] [info] [127.0.0.1][4fa7faaa][ManagementConnection] New connection established.
+[2022-03-05 03:49:42.170] [remoteagent] [info] [127.0.0.1][09ad889e][ExtensionHostConnection] New connection established.
+[2022-03-05 03:49:42.176] [remoteagent] [info] [127.0.0.1][09ad889e][ExtensionHostConnection] <9813> Launched Extension Host Process.
+[2022-03-05 03:49:43.473] [remoteagent] [info] Getting Manifest... gitpod.gitpod-remote-ssh
+[2022-03-05 03:49:43.498] [remoteagent] [info] Installing extension: gitpod.gitpod-remote-ssh
+[2022-03-05 03:49:44.833] [remoteagent] [info] Downloaded extension: gitpod.gitpod-remote-ssh /home/lalala/.vscode-server/data/CachedExtensionVSIXs/gitpod.gitpod-remote-ssh-0.0.28
+[2022-03-05 03:49:44.917] [remoteagent] [info] Extracted extension to /home/lalala/.vscode-server/extensions/.1b2d7d8d-6bdf-4178-9044-8674d5df7a50: gitpod.gitpod-remote-ssh
+[2022-03-05 03:49:44.920] [remoteagent] [info] Renamed to /home/lalala/.vscode-server/extensions/gitpod.gitpod-remote-ssh-0.0.28
+[2022-03-05 03:49:44.921] [remoteagent] [info] Extracting completed. gitpod.gitpod-remote-ssh
+[2022-03-05 03:49:44.921] [remoteagent] [info] Extension installed successfully: gitpod.gitpod-remote-ssh
+[2022-03-05 03:50:00.988] [remoteagent] [info] [127.0.0.1][4fa7faaa][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-03-05 03:50:01.003] [remoteagent] [info] [127.0.0.1][09ad889e][ExtensionHostConnection] <9813> Extension Host Process exited with code: 0, signal: null.
+[2022-03-05 03:50:01.004] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-03-05 03:50:05.772] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-03-05 03:50:05.772] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-03-05 03:50:05.869] [remoteagent] [info] [127.0.0.1][0be1651a][ManagementConnection] New connection established.
+[2022-03-05 03:50:05.869] [remoteagent] [info] [127.0.0.1][c6f481a9][ExtensionHostConnection] New connection established.
+[2022-03-05 03:50:05.872] [remoteagent] [info] [127.0.0.1][c6f481a9][ExtensionHostConnection] <10079> Launched Extension Host Process.
+[2022-03-05 03:55:05.775] [remoteagent] [info] New EH opened, aborting shutdown
+[2022-03-05 05:10:35.844] [remoteagent] [info] [127.0.0.1][0be1651a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-03-05 05:10:35.861] [remoteagent] [info] [127.0.0.1][c6f481a9][ExtensionHostConnection] <10079> Extension Host Process exited with code: 0, signal: null.
+[2022-03-05 05:10:35.862] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-03-05 05:14:39.039] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-03-05 05:14:39.039] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-03-05 05:14:39.112] [remoteagent] [info] [127.0.0.1][20e5d3cd][ManagementConnection] New connection established.
+[2022-03-05 05:14:39.121] [remoteagent] [info] [127.0.0.1][cdcf92af][ExtensionHostConnection] New connection established.
+[2022-03-05 05:14:39.130] [remoteagent] [info] [127.0.0.1][cdcf92af][ExtensionHostConnection] <32808> Launched Extension Host Process.
+[2022-03-05 05:19:39.040] [remoteagent] [info] New EH opened, aborting shutdown
+[2022-03-05 06:24:04.424] [remoteagent] [info] [127.0.0.1][20e5d3cd][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-03-05 06:24:04.451] [remoteagent] [info] [127.0.0.1][cdcf92af][ExtensionHostConnection] <32808> Extension Host Process exited with code: 0, signal: null.
+[2022-03-05 06:24:04.451] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-03-05 06:24:27.797] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-03-05 06:24:27.797] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-03-05 06:24:27.869] [remoteagent] [info] [127.0.0.1][8ea14dc6][ManagementConnection] New connection established.
+[2022-03-05 06:24:27.878] [remoteagent] [info] [127.0.0.1][e6024fc5][ExtensionHostConnection] New connection established.
+[2022-03-05 06:24:27.885] [remoteagent] [info] [127.0.0.1][e6024fc5][ExtensionHostConnection] <36237> Launched Extension Host Process.

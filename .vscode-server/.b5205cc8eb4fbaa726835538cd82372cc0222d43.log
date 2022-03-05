@@ -1,0 +1,61 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to 127.0.0.1:41067 (IPv4)
+Extension host agent listening on 41067
+
+Installing extensions...
+[03:49:42] Extension host agent started.
+[03:49:42] [127.0.0.1][4fa7faaa][ManagementConnection] New connection established.
+[03:49:42] [127.0.0.1][09ad889e][ExtensionHostConnection] New connection established.
+[03:49:42] [127.0.0.1][09ad889e][ExtensionHostConnection] <9813> Launched Extension Host Process.
+Installing extension 'gitpod.gitpod-remote-ssh'...
+[03:49:43] Getting Manifest... gitpod.gitpod-remote-ssh
+[03:49:43] Installing extension: gitpod.gitpod-remote-ssh
+[03:49:44] Downloaded extension: gitpod.gitpod-remote-ssh /home/lalala/.vscode-server/data/CachedExtensionVSIXs/gitpod.gitpod-remote-ssh-0.0.28
+[03:49:44] Extracted extension to /home/lalala/.vscode-server/extensions/.1b2d7d8d-6bdf-4178-9044-8674d5df7a50: gitpod.gitpod-remote-ssh
+[03:49:44] Renamed to /home/lalala/.vscode-server/extensions/gitpod.gitpod-remote-ssh-0.0.28
+[03:49:44] Extracting completed. gitpod.gitpod-remote-ssh
+[03:49:44] Extension installed successfully: gitpod.gitpod-remote-ssh
+Extension 'gitpod.gitpod-remote-ssh' v0.0.28 was successfully installed.
+[03:50:00] [127.0.0.1][4fa7faaa][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[03:50:01] [127.0.0.1][09ad889e][ExtensionHostConnection] <9813> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[03:50:01] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[03:50:05] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[03:50:05] Cancelling previous shutdown timeout
+[03:50:05] [127.0.0.1][0be1651a][ManagementConnection] New connection established.
+[03:50:05] [127.0.0.1][c6f481a9][ExtensionHostConnection] New connection established.
+[03:50:05] [127.0.0.1][c6f481a9][ExtensionHostConnection] <10079> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[03:55:05] New EH opened, aborting shutdown
+[05:10:35] [127.0.0.1][0be1651a][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[05:10:35] [127.0.0.1][c6f481a9][ExtensionHostConnection] <10079> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[05:10:35] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[05:14:39] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[05:14:39] Cancelling previous shutdown timeout
+[05:14:39] [127.0.0.1][20e5d3cd][ManagementConnection] New connection established.
+[05:14:39] [127.0.0.1][cdcf92af][ExtensionHostConnection] New connection established.
+[05:14:39] [127.0.0.1][cdcf92af][ExtensionHostConnection] <32808> Launched Extension Host Process.
+New EH opened, aborting shutdown
+[05:19:39] New EH opened, aborting shutdown
+[06:24:04] [127.0.0.1][20e5d3cd][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[06:24:04] [127.0.0.1][cdcf92af][ExtensionHostConnection] <32808> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[06:24:04] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[06:24:27] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[06:24:27] Cancelling previous shutdown timeout
+[06:24:27] [127.0.0.1][8ea14dc6][ManagementConnection] New connection established.
+[06:24:27] [127.0.0.1][e6024fc5][ExtensionHostConnection] New connection established.
+[06:24:27] [127.0.0.1][e6024fc5][ExtensionHostConnection] <36237> Launched Extension Host Process.
